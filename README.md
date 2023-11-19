@@ -56,6 +56,7 @@ to ingest array of logs this endpoint http://localhost:3000/api/ingest works as 
     }
 }
 ]
+
 FEATURES IMPLEMENTED
 
 Developed a mechanism to ingest logs in the provided format.
